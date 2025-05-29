@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OGRVRTDataSource>
+    <OGRVRTLayer name="Data_Atribut_Stasiun_KA">
+        <SrcDataSource relativeToVRT="1">Data_Atribut.xlsx</SrcDataSource>
+        <!--Header=False-->
+        <SrcLayer>Sheet1</SrcLayer>
+        <Field name="NAMOBJ" src="NAMOBJ" type="String"/>
+        <Field name="WADMKC" src="WADMKC" type="String"/>
+        <Field name="WADMKD" src="WADMKD" type="String"/>
+        <Field name="WADMKK" src="WADMKK" type="String"/>
+        <Field name="WADMPR" src="WADMPR" type="String"/>
+        <Field name="ID" src="ID" type="String"/>
+        <Field name="STASIUN" src="STASIUN" type="String"/>
+        <Field name="PROVINSI" src="PROVINSI" type="String"/>
+        <Field name="DIVISI_REGIONAL" src="DIVISI_REGIONAL" type="String"/>
+        <Field name="DAERAH_OPERASI" src="DAERAH_OPERASI" type="String"/>
+        <Field name="LATITUDE" src="LATITUDE" type="String"/>
+        <Field name="LONGITUDE" src="LONGITUDE" type="String"/>
+        <Field name="KATERGOTY " src="KATERGOTY " type="String"/>
+        <Field name="STATUS" src="STATUS" type="String"/>
+        <Field name="PENGELOLA" src="PENGELOLA" type="String"/>
+        <Field name="BADAN_USAHA" src="BADAN_USAHA" type="String"/>
+        <Field name="MDPL" src="MDPL" type="String"/>
+        <Field name="THN_OPERASI" src="THN_OPERASI" type="Integer"/>
+        <Field name="KELAS/LAYANAN" src="KELAS/LAYANAN" type="String"/>
+        <Field name="JML_PERON" src="JML_PERON" type="Integer"/>
+        <Field name="JML_JALUR" src="JML_JALUR" type="Integer"/>
+        <Field name="DATA ATRIBUT9 (Klasifikasi)" src="DATA ATRIBUT9 (Klasifikasi)" type="String"/>
+        <Field name="PHOTO/GAMBAR" src="PHOTO/GAMBAR" type="String"/>
+        <Field name="Field24" src="Field24" type="String"/>
+        <Field name="Field25" src="Field25" type="String"/>
+        <Field name="Field26" src="Field26" type="String"/>
+        <Field name="Field27" src="Field27" type="String"/>
+        <Field name="Field28" src="Field28" type="String"/>
+        <Field name="Field29" src="Field29" type="String"/>
+        <Field name="Field30" src="Field30" type="String"/>
+        <Field name="Field31" src="Field31" type="String"/>
+        <Field name="Field32" src="Field32" type="String"/>
+        <Field name="Field33" src="Field33" type="String"/>
+        <Field name="Field34" src="Field34" type="String"/>
+    </OGRVRTLayer>
+</OGRVRTDataSource>

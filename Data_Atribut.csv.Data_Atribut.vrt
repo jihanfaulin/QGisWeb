@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OGRVRTDataSource>
+    <OGRVRTLayer name="Data_Atribut">
+        <SrcDataSource relativeToVRT="1">Data_Atribut.csv</SrcDataSource>
+        <!--Header=False-->
+        <SrcLayer>Data_Atribut</SrcLayer>
+        <Field name="NAMOBJ" src="NAMOBJ" type="String"/>
+        <Field name="WADMKC" src="WADMKC" type="String"/>
+        <Field name="WADMKD" src="WADMKD" type="String"/>
+        <Field name="WADMKK" src="WADMKK" type="String"/>
+        <Field name="WADMPR" src="WADMPR" type="String"/>
+        <Field name="ID" src="ID" type="String"/>
+        <Field name="STASIUN" src="STASIUN" type="String"/>
+        <Field name="PROVINSI" src="PROVINSI" type="String"/>
+        <Field name="DIVISI_REGIONAL" src="DIVISI_REGIONAL" type="String"/>
+        <Field name="DAERAH_OPERASI" src="DAERAH_OPERASI" type="String"/>
+        <Field name="LATITUDE" src="LATITUDE" type="String"/>
+        <Field name="LONGITUDE" src="LONGITUDE" type="String"/>
+        <Field name="KATERGOTY" src="KATERGOTY" type="String"/>
+        <Field name="STATUS" src="STATUS" type="String"/>
+        <Field name="PENGELOLA" src="PENGELOLA" type="String"/>
+        <Field name="BADAN_USAHA" src="BADAN_USAHA" type="String"/>
+        <Field name="MDPL" src="MDPL" type="String"/>
+        <Field name="THN_OPERASI" src="THN_OPERASI" type="Integer"/>
+        <Field name="KELAS/LAYANAN" src="KELAS/LAYANAN" type="String"/>
+        <Field name="JML_PERON" src="JML_PERON" type="Integer"/>
+        <Field name="JML_JALUR" src="JML_JALUR" type="Integer"/>
+        <Field name="DATA ATRIBUT9 (Klasifikasi)" src="DATA ATRIBUT9 (Klasifikasi)" type="String"/>
+        <Field name="PHOTO/GAMBAR" src="PHOTO/GAMBAR" type="String"/>
+        <Field name="field_24" src="field_24" type="String"/>
+        <Field name="field_25" src="field_25" type="String"/>
+        <Field name="field_26" src="field_26" type="String"/>
+        <Field name="field_27" src="field_27" type="String"/>
+        <Field name="field_28" src="field_28" type="String"/>
+        <Field name="field_29" src="field_29" type="String"/>
+        <Field name="field_30" src="field_30" type="String"/>
+        <Field name="field_31" src="field_31" type="String"/>
+        <Field name="field_32" src="field_32" type="String"/>
+        <Field name="field_33" src="field_33" type="String"/>
+        <Field name="field_34" src="field_34" type="String"/>
+        <Field name="field_35" src="field_35" type="String"/>
+        <Field name="field_36" src="field_36" type="String"/>
+        <Field name="field_37" src="field_37" type="String"/>
+        <Field name="field_38" src="field_38" type="String"/>
+        <Field name="field_39" src="field_39" type="String"/>
+        <Field name="field_40" src="field_40" type="String"/>
+        <Field name="field_41" src="field_41" type="String"/>
+        <Field name="field_42" src="field_42" type="String"/>
+        <Field name="field_43" src="field_43" type="String"/>
+        <Field name="field_44" src="field_44" type="String"/>
+        <Field name="field_45" src="field_45" type="String"/>
+        <Field name="field_46" src="field_46" type="String"/>
+        <Field name="field_47" src="field_47" type="String"/>
+        <Field name="field_48" src="field_48" type="String"/>
+        <Field name="field_49" src="field_49" type="String"/>
+        <Field name="field_50" src="field_50" type="String"/>
+        <Field name="field_51" src="field_51" type="String"/>
+        <Field name="field_52" src="field_52" type="String"/>
+        <Field name="field_53" src="field_53" type="String"/>
+    </OGRVRTLayer>
+</OGRVRTDataSource>
